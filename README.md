@@ -10,3 +10,4 @@ This project is built with .
 - Tailwind CSS
 
 
+https://smoothcalc.vercel.app
